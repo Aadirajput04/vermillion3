@@ -5377,7 +5377,7 @@ html {
   
   .error-2 {
     color: #fff;
-    background-color: #ff6b3b;
+    background-color: #eb0045;
     border-radius: 8px;
     font-family: Modernera, sans-serif;
     font-size: 1rem;
@@ -5387,8 +5387,8 @@ html {
     color: #fff;
     text-align: center;
     text-transform: none;
-    background-color: #0075ff;
-    border: 1px solid #0075ff;
+    background-color: #eb0045;
+    border: 1px solid #eb0045;
     border-radius: .6rem;
     padding: .75rem 1.5rem;
     font-family: Modernera, sans-serif;
@@ -5398,9 +5398,9 @@ html {
   }
   
   .button-2:hover {
-    color: #0075ff;
+    color: #eb0045;
     background-color: #fff;
-    border: 1px solid #0075ff;
+    border: 1px solid #eb0045;
   }
   
   .inline__link {
@@ -5636,7 +5636,7 @@ html {
   
   .next-drop--coming-sson {
     z-index: 2;
-    color: #fc5251;
+    color: #eb0045;
     font-family: Modernera, sans-serif;
     font-size: 1rem;
     line-height: 1.3125;
@@ -5702,7 +5702,7 @@ html {
   }
   
   .inline-link {
-    color: #0075ff;
+    color: #eb0045;
     font-family: Gtalpina, sans-serif;
   }
   
@@ -6334,7 +6334,7 @@ html {
       height: auto;
       perspective-origin: 50% 0;
       transform-origin: 50% 0;
-      background-color: #dbff00;
+      background-color: black;
       border-radius: 1.2rem;
       flex-direction: column;
       align-items: flex-start;
