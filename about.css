@@ -2160,7 +2160,7 @@ html {
   }
   
   h5 {
-    color: #000;
+    color: white;
     margin-top: 0;
     margin-bottom: 0;
     font-family: Modernera, sans-serif;
@@ -2170,7 +2170,7 @@ html {
   }
   
   h6 {
-    color: #000;
+    color: white;
     margin-top: 0;
     margin-bottom: 0;
     font-size: 1.125rem;
@@ -2189,7 +2189,7 @@ html {
   }
   
   a {
-    color: #070707;
+    color: white;
     font-family: Modernera, sans-serif;
     font-size: 1.125rem;
     text-decoration: none;
@@ -2561,8 +2561,8 @@ html {
     color: #fff;
     text-align: center;
     text-transform: capitalize;
-    background-color: #0075ff;
-    border: 1px solid #0075ff;
+    background-color: #eb0045;
+    border: 1px solid #eb0045;
     border-radius: .6rem;
     padding: .75rem 1.5rem;
     font-family: Modernera, sans-serif;
@@ -2572,9 +2572,9 @@ html {
   }
   
   .button:hover {
-    color: #0075ff;
+    color: #eb0045;
     background-color: #fff;
-    border: 1px solid #0075ff;
+    border: 1px solid #eb0045;
   }
   
   .button.is__product {
@@ -2934,7 +2934,7 @@ html {
   .navbar__parent {
     width: 100%;
     height: auto;
-    background-color: red;
+    background-color:black;
     border-radius: 1rem;
     justify-content: space-between;
     align-items: center;
@@ -3002,7 +3002,7 @@ html {
   .footer__parent {
     width: 100%;
     height: auto;
-    background-color: #dbff00;
+    background-color: black;
     border-radius: 1rem;
     flex-direction: column;
     padding-top: 3rem;
@@ -3015,7 +3015,7 @@ html {
   .footer__content {
     width: 100%;
     height: auto;
-    background-color: #dbff00;
+    background-color: black;
     flex-direction: row;
     justify-content: space-between;
     display: flex;
@@ -3026,7 +3026,7 @@ html {
   }
   
   .footer__p-alpina {
-    color: #000;
+    color: white;
     text-transform: none;
     margin-top: 1rem;
     font-family: Gtalpina, sans-serif;
@@ -3034,13 +3034,13 @@ html {
   }
   
   .footer__p-alpina.is--policy {
-    color: #000;
+    color: white;
     margin-top: 0;
     font-family: Modernera, sans-serif;
   }
   
   .footer__p-modernera {
-    color: #000;
+    color: white;
     font-size: 1.25rem;
   }
   
@@ -8248,3 +8248,6 @@ html {
     font-style: normal;
     font-display: swap;
   }
+
+
+  
