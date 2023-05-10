@@ -4093,7 +4093,7 @@ html {
   .team__role-box {
     width: auto;
     height: auto;
-    background-color: #dbff00;
+    background-color: #eb0045;
     border-radius: 3.7rem;
     margin-bottom: 1.5rem;
     margin-right: .75rem;
@@ -7351,7 +7351,7 @@ html {
     }
   
     .transition__content.is--bg-yellow {
-      background-color: #dbff00;
+      background-color: #eb0045;
     }
   
     .form__block, .form__block.is--hero {

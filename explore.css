@@ -2599,14 +2599,14 @@ html {
   .button.is--explore {
     color: #000;
     text-transform: uppercase;
-    background-color: #dcff09;
+    background-color: #eb0045;
     border-style: none;
     line-height: 1;
     transition-property: transform;
   }
   
   .button.is--explore:hover {
-    background-color: #e0f654;
+    background-color: #eb0045;
     border-right-style: none;
     transform: translate(0, -4px);
   }
@@ -2649,7 +2649,7 @@ html {
   .transition__content.is--bg-yellow {
     perspective-origin: 50% 100%;
     transform-origin: 50% 100%;
-    background-color: #dbff00;
+    background-color: #eb0045;
   }
   
   .overflow-hidden {
@@ -2743,7 +2743,7 @@ html {
   }
   
   .style-guide__colors.style-guide__colors--electric-green {
-    background-color: #dbff00;
+    background-color: #eb0045;
   }
   
   .style-guide__colors.style-guide__colors--white {
